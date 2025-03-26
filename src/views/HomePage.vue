@@ -2,7 +2,10 @@
     <div class="bg-[#f6faff]">
         <universityHeader />
         <div>
-            <img class="w-full object-cover" src="../assets/Background.png" alt="">
+            <div class="relartive">
+                <img class="w-full object-cover" src="../assets/Background.png" alt="">
+                <universityMain class="absolute top-1/2 left-1/2 -translate-x-1/2"/>
+            </div>
             <div class="flex justify-center">
                 <div class="w-2/3 flex justify-center gap-12 -translate-y-1/2">
                     <universityQuality class="w-90 h-74" :text="'200-ден астам оқытушы'">
@@ -53,8 +56,8 @@
                 </div>
             </div>
         </div>
-        <followNews class="translate-y-1/2"/>
-        <universityFooter/>
+        <followNews class="translate-y-1/2" />
+        <universityFooter />
     </div>
 </template>
 <script setup lang="ts">
@@ -69,4 +72,5 @@ import unversityGallery from '../components/unversityGallery.vue';
 import universityFooter from '../components/universityFooter.vue';
 import followNews from '../components/followNews.vue';
 import studentOpinion from '../components/studentOpinion.vue';
+import universityMain from '../components/universityMain.vue';
 </script>

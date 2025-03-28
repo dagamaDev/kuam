@@ -4,17 +4,17 @@
         <div>
             <div class="relartive">
                 <img class="w-full object-cover" src="../assets/Background.png" alt="">
-                <universityMain class="absolute top-1/2 left-1/2 -translate-x-1/2"/>
+                <universityMain class="absolute top-1/2 left-1/2 translate-y-1/2"/>
             </div>
             <div class="flex justify-center">
                 <div class="w-2/3 flex justify-center gap-12 -translate-y-1/2">
-                    <universityQuality class="w-90 h-74" :text="'200-ден астам оқытушы'">
+                    <universityQuality class="w-77 h-74" :text="'200-ден астам оқытушы'">
                         <img src="../assets/icon.svg" alt="">
                     </universityQuality>
-                    <universityQuality class="w-90 h-74" :text="'20 мыңнан астам түлек'">
+                    <universityQuality class="w-77 h-74" :text="'20 мыңнан астам түлек'">
                         <img src="../assets/Vector.svg" alt="">
                     </universityQuality>
-                    <universityQuality class="w-90 h-74" :text="'Сапа сертификаты'">
+                    <universityQuality class="w-77 h-74" :text="'Сапа сертификаты'">
                         <img src="../assets/bulb.svg" alt="">
                     </universityQuality>
                 </div>

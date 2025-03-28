@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center">
-        <div class="flex flex-col justify-center gap-3 mb-4">
-            <h1 class="text-3xl font-bold text-[#236A8D]">Фото галлерия</h1>
+        <div class="w-1/2 flex flex-col justify-center gap-3 mb-4">
+            <h1 class="text-3xl font-bold text-[#236A8D] text-center">Фото галлерия</h1>
             <p>Біздің академиялық саяхатымыздың, кампус өміріміздің және студенттік жетістіктеріміздің мәнін қамтитын
                 көрнекі шедеврлердің жанды жинағын зерттеңіз. Біздің белсенді және серпінді қауымдастықтың бірегей
                 тарихын баяндайтын кескіндердің калейдоскопына еніңіз.</p>

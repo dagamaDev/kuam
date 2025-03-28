@@ -4,7 +4,7 @@
         <div>
             <div class="relartive">
                 <img class="w-full object-cover" src="../assets/Background.png" alt="">
-                <universityMain class="absolute top-1/2 left-1/2 translate-y-1/2"/>
+                <universityMain class="absolute top-1/2 left-1/2 -translate-x-1/2"/>
             </div>
             <div class="flex justify-center">
                 <div class="w-2/3 flex justify-center gap-12 -translate-y-1/2">

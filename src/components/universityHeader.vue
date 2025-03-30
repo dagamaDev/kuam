@@ -1,10 +1,11 @@
 <template>
-    <header class="flex items-center justify-between bg-white p-4">
+  <div class="flex justify-center bg-white">
+    <header class="w-4/5 flex items-center justify-between bg-white p-4">
       <div class="flex items-center space-x-4">
         <img src="../assets/university_logo.png" alt="University Logo" class="h-17" />
       </div>
       <nav class="flex space-x-6">
-        <a href="#" class="text-[#236A8D]">Біз туралы</a>
+        <RouterLink to="/about" class="text-[#236A8D]">Біз туралы</RouterLink>
         <a href="#" class="text-[#236A8D]">Ғылым</a>
         <a href="#" class="text-[#236A8D]">Абитуриенттерге</a>
         <a href="#" class="text-[#236A8D]">Зерттеу</a>
@@ -14,4 +15,5 @@
         <span>Бізге хабарлас</span> <span><img src='../assets/outline.svg' alt=""></span>
       </button>
     </header>
+  </div>
   </template>

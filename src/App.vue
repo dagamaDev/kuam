@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>
+  <div class="bg-[#f6faff]">
     <router-view></router-view>
   </div>
 </template>

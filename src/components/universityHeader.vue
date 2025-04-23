@@ -6,7 +6,7 @@
       </div>
       <nav class="flex space-x-6">
         <RouterLink to="/about" class="text-[#236A8D]">Біз туралы</RouterLink>
-        <a href="#" class="text-[#236A8D]">Ғылым</a>
+        <RouterLink to="/academic" class="text-[#236A8D]">Ғылым</RouterLink>
         <a href="#" class="text-[#236A8D]">Абитуриенттерге</a>
         <a href="#" class="text-[#236A8D]">Зерттеу</a>
         <a href="#" class="text-[#236A8D]">Жұмыс</a>

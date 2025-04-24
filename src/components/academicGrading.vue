@@ -16,52 +16,52 @@
                         </tr>
                     </thead>
                     <tbody class="text-gray-700 text-center">
-                        <tr class="border-t">
+                        <tr class="">
                             <td class="py-2 px-4">90-100</td>
                             <td class="py-2 px-4">A</td>
                             <td class="py-2 px-4">4.0</td>
                         </tr>
-                        <tr class="bg-blue-50 border-t">
+                        <tr class="bg-blue-50 ">
                             <td class="py-2 px-4">87-89</td>
                             <td class="py-2 px-4">B+</td>
                             <td class="py-2 px-4">3.7</td>
                         </tr>
-                        <tr class="border-t">
+                        <tr class="">
                             <td class="py-2 px-4">84-86</td>
                             <td class="py-2 px-4">B</td>
                             <td class="py-2 px-4">3.4</td>
                         </tr>
-                        <tr class="bg-blue-50 border-t">
+                        <tr class="bg-blue-50 ">
                             <td class="py-2 px-4">80-83</td>
                             <td class="py-2 px-4">B-</td>
                             <td class="py-2 px-4">3.1</td>
                         </tr>
-                        <tr class="border-t">
+                        <tr class="">
                             <td class="py-2 px-4">77-79</td>
                             <td class="py-2 px-4">C+</td>
                             <td class="py-2 px-4">2.8</td>
                         </tr>
-                        <tr class="bg-blue-50 border-t">
+                        <tr class="bg-blue-50 ">
                             <td class="py-2 px-4">74-76</td>
                             <td class="py-2 px-4">C</td>
                             <td class="py-2 px-4">2.5</td>
                         </tr>
-                        <tr class="border-t">
+                        <tr class="">
                             <td class="py-2 px-4">70-73</td>
                             <td class="py-2 px-4">C-</td>
                             <td class="py-2 px-4">2.2</td>
                         </tr>
-                        <tr class="bg-blue-50 border-t">
+                        <tr class="bg-blue-50 ">
                             <td class="py-2 px-4">65-69</td>
                             <td class="py-2 px-4">D+</td>
                             <td class="py-2 px-4">1.5</td>
                         </tr>
-                        <tr class="border-t">
+                        <tr class="">
                             <td class="py-2 px-4">60-64</td>
                             <td class="py-2 px-4">D</td>
                             <td class="py-2 px-4">1.0</td>
                         </tr>
-                        <tr class="bg-blue-50 border-t">
+                        <tr class="bg-blue-50 ">
                             <td class="py-2 px-4">Below 60</td>
                             <td class="py-2 px-4">F</td>
                             <td class="py-2 px-4">0.0</td>

@@ -5,7 +5,7 @@
             <slot></slot>
         </div>
         <div class="flex justify-center">
-            <h4 class="text-2xl font-bold text-[#236A8D]">{{ title }}</h4>
+            <h4 class="text-2xl font-bold text-[#236A8D] text-center">{{ title }}</h4>
         </div>
     </div>
 

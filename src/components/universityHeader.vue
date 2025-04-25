@@ -11,7 +11,7 @@
         <RouterLink to="/academic" class="text-[#236A8D]" active-class="font-bold">Ғылым</RouterLink>
         <RouterLink to="/admission" class="text-[#236A8D]" active-class="font-bold">Абитуриенттерге</RouterLink>
         <RouterLink to="/research" class="text-[#236A8D]" active-class="font-bold">Зерттеу</RouterLink>
-        <RouterLink to="/" class="text-[#236A8D]" active-class="font-bold">Жұмыс</RouterLink>
+        <RouterLink to="/job" class="text-[#236A8D]" active-class="font-bold">Жұмыс</RouterLink>
       </nav>
       <button class="bg-[#236A8D] flex text-white px-6 py-2 rounded-full">
         <span>Бізге хабарлас</span> <span><img src='../assets/outline.svg' alt=""></span>

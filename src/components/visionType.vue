@@ -14,4 +14,4 @@
 defineProps({
     title: String,
 })
-</script>
+</script> 

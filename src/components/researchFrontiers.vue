@@ -18,6 +18,12 @@
                     <img src="../assets/research-7.svg" alt="">
                 </visionType>
             </div>
+            <div></div>
+            <div class="flex justify-center mt-10">
+            <button class="bg-[#236A8D] flex text-white px-6 py-2 rounded-md">
+                <span>See more</span> <span><img src='../assets/outline.svg' alt=""></span>
+            </button>
+        </div>
         </div>
     </div>
 </template>

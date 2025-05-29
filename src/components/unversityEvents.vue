@@ -3,7 +3,7 @@
         <div class="flex justify-center gap-3 mb-4">
             <h1 class="text-3xl font-bold text-[#236A8D]">Оқиғалар</h1> <img src="../assets/group.svg" alt="">
         </div>
-        <div class="flex gap-6 justify-center mb-6">
+        <div class="flex flex-col md:flex-row gap-6 justify-center mb-6">
             <eventInfo :title="'Annual sports day'" :text="textSport">
                 <img src="../assets/events_beginning.png" alt="">
             </eventInfo>

@@ -2,7 +2,7 @@
     <footer class="bg-[#236A8D] text-white pb-8">
       <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 px-4 pt-32">
         <!-- Description Section -->
-        <div>
+        <div class="mt-4">
           <p class="text-sm">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna.
           </p>

@@ -5,7 +5,7 @@
             <h1 class="text-3xl font-bold text-[#236A8D]">Университетте 3D тур</h1>
         </div>
         <div class="flex gap-6 justify-center mb-6">
-            <img src="../assets/kuam.png" alt="">
+            <img src="../assets/kuam.png" alt="" class="w-full md:w-1/3">
         </div>
     </div>
     </div>

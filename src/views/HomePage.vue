@@ -4,22 +4,22 @@
         <div>
             <div class="relartive">
                 <img class="w-full object-cover" src="../assets/Background.png" alt="">
-                <universityMain class="absolute top-1/2 left-1/2 -translate-x-1/2"/>
+                <universityMain class="w-full flex justify-center absolute top-1/6 md:top-1/2 left-1/2 -translate-x-1/2"/>
             </div>
-            <div class="flex justify-center">
-                <div class="w-2/3 flex justify-center gap-12 -translate-y-1/2">
-                    <universityQuality class="w-77 h-74" :text="'200-ден астам оқытушы'">
+            <div class="flex justify-center z-99">
+                <div class="w-2/3 flex flex-col md:flex-row justify-center items-center gap-12 md:-translate-y-1/2">
+                    <universityQuality class="w-60 md:w-77 h-74 flex justify-center" :text="'200-ден астам оқытушы'">
                         <img src="../assets/icon.svg" alt="">
                     </universityQuality>
-                    <universityQuality class="w-77 h-74" :text="'20 мыңнан астам түлек'">
+                    <universityQuality class="w-60 md:w-77 h-74 flex justify-center" :text="'20 мыңнан астам түлек'">
                         <img src="../assets/Vector.svg" alt="">
                     </universityQuality>
-                    <universityQuality class="w-77 h-74" :text="'Сапа сертификаты'">
+                    <universityQuality class="w-60 md:w-77 h-74 flex justify-center" :text="'Сапа сертификаты'">
                         <img src="../assets/bulb.svg" alt="">
                     </universityQuality>
                 </div>
             </div>
-            <div class="flex justify-center mb-8">
+            <div class="flex justify-center my-8">
                 <div class="w-3/4">
                     <unversityAdvice />
                 </div>

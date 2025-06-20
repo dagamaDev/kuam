@@ -21,10 +21,6 @@
 </template>
 <script setup lang="ts">
 import universityHeader from '../components/universityHeader.vue';
-import academicHero from '../components/academicHero.vue';
-import academicFaculty from '../components/academicFaculty.vue';
-import academicStandarts from '../components/academicStandarts.vue';
-import academicGrading from '../components/academicGrading.vue';
 import academicFacultyResearch from '../components/academicFacultyResearch.vue';
 import academicScienceDepartment from '../components/academicScienceDepartment.vue';
 import academicStudentResearch from '../components/academicStudentResearch.vue';

@@ -2,7 +2,7 @@
     <div>
         <div class="flex flex-col items-center">
             <div class="flex justify-center gap-3 mb-8">
-                <h1 class="text-3xl font-bold text-[#236A8D]">Научно-исследовательская деятельность профессорского-преподавательского состава</h1>
+                <h1 class="text-3xl font-bold text-[#236A8D]">Научно-исследовательская деятельность профессорского-преподавательского состава.</h1>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8 w-full max-w-4xl mb-6">
                 <div v-for="(item, idx) in items" :key="item.title" @click="openModal(idx)" class="cursor-pointer transition-transform duration-200 hover:scale-105 hover:shadow-lg">

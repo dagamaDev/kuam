@@ -1,23 +1,11 @@
 <template>
     <universityHeader />
     <div>
-        <div>
-            <academicHero />
-        </div>
         <div class="mt-20">
-            <academicFaculty />
-        </div>
-        <div class="mt-20">
-            <academicStandarts />
-        </div>
-        <div class="mt-20">
-            <academicGrading />
+            <academicScienceDepartment />
         </div>
         <div class="mt-20">
             <academicFacultyResearch />
-        </div>
-        <div class="mt-20">
-            <academicScienceDepartment />
         </div>
         <div class="mt-20">
             <academicStudentResearch />

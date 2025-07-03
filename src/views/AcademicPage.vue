@@ -17,7 +17,7 @@
 <script setup lang="ts">
 import universityHeader from '../components/universityHeader.vue';
 import academicScienceDepartment from '../components/academicScienceDepartment.vue';
-import academicStudentResearch from '../components/academicStudentResearch.vue';
+// import academicStudentResearch from '../components/academicStudentResearch.vue';
 import followNews from '../components/followNews.vue';
 import universityFooter from '../components/universityFooter.vue';
 import universityStaff from '../components/universityStaff.vue';

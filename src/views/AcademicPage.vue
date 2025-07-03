@@ -4,12 +4,7 @@
         <div class="mt-20">
             <academicScienceDepartment />
         </div>
-        <div class="mt-20">
-            <academicFacultyResearch />
-        </div>
-        <div class="mt-20">
-            <academicStudentResearch />
-        </div>
+
         <div class="flex justify-center mb-8">
             <div class="w-full">
                 <universityStaff />
@@ -21,7 +16,6 @@
 </template>
 <script setup lang="ts">
 import universityHeader from '../components/universityHeader.vue';
-import academicFacultyResearch from '../components/academicFacultyResearch.vue';
 import academicScienceDepartment from '../components/academicScienceDepartment.vue';
 import academicStudentResearch from '../components/academicStudentResearch.vue';
 import followNews from '../components/followNews.vue';

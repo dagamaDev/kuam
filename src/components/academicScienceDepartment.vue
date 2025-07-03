@@ -84,12 +84,12 @@ const showPublishingModal = ref(false)
 const publishingSection = [
     {
         title: 'Вестник КУ им. Абая Мырзахметова',
-        route: '/publishing',
+        route: '/publications',
         description: 'Научный журнал университета, публикующий статьи преподавателей, студентов и исследователей по различным направлениям.'
     },
     {
         title: 'Научные мероприятия',
-        route: '/faculty-publications',
+        route: '/publications',
         description: 'Информация о конференциях, симпозиумах, семинарах и других научных событиях, проводимых университетом.'
     },
 ]
@@ -99,32 +99,32 @@ const modalSections = [
     {
         title: 'Научные проекты',
         description: 'Информация о текущих и завершённых научных проектах преподавателей и студентов.',
-        route: '/projects'
+        route: '/academic-info'
     },
     {
         title: 'Регистрация авторских прав',
         description: 'Процедуры и требования для регистрации авторских прав на научные работы.',
-        route: '/copyright'
+        route: '/academic-info'
     },
     {
         title: 'Публикационная активность',
         description: 'Анализ публикационной активности сотрудников, индексируемость и журналы.',
-        route: '/publications'
+        route: '/academic-info'
     },
     {
         title: 'Портфолио ученых',
         description: 'Комплексные профили преподавателей с научными достижениями и публикациями.',
-        route: '/portfolio'
+        route: '/academic-info'
     },
     {
         title: 'Соискание ученых званий',
         description: 'Информация о процессе и критериях получения ученых званий.',
-        route: '/titles'
+        route: '/academic-info'
     },
     {
         title: 'Республиканский конкурс «Лучший преподаватель ВУЗа»',
         description: 'Условия участия и достижения преподавателей в данном конкурсе.',
-        route: '/competition'
+        route: '/academic-info'
     }
 ]
 
